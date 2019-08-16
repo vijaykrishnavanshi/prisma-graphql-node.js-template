@@ -1,0 +1,13 @@
+{
+  "name": "prisma-graphql-node.js-template",
+  "version": "1.0.0",
+  "description": "Prisma GQL Template",
+  "main": "src/index.js",
+  "repository": "https://github.com/vijaykrishnavanshi/prisma-graphql-node.js-template.git",
+  "author": "Vijay Krishnavanshi <vijaykrishnavanshi@gmail.com>",
+  "license": "Apache-2.0",
+  "private": false,
+  "dependencies": {
+    "graphql-yoga": "^1.18.1"
+  }
+}
